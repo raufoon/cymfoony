@@ -32,3 +32,6 @@ git commit -a -m "Testing everything again"
 
 # Push the changes to the 'main' branch on GitHub
 git push origin main
+
+git commit -m "post new commit"
+git push origin main
