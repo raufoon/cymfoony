@@ -1,6 +1,6 @@
 # Read me
 ## What is cymfoony?
-Purpose. A VS code commit.
+I'll be putting all my thesis work here.
 
 ## Basic instructions on how to do Initial Commit and Edit Commits
 ```
