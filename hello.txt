@@ -4,8 +4,16 @@ hello again
 o/__\ oo|__|o
   vv     vv 
 
+<<<<<<< HEAD
 rm -r .git
 
+=======
+<<<<<<< HEAD
+rm -r .git
+
+=======
+>>>>>>> cc93613f4f4d128c27189391971b26d9c2fcec9b
+>>>>>>> d91f958cecebd19adb52ae81f852ff825cd1283e
 # Initialize a new Git repository
 git init
 
