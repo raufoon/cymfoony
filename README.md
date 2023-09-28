@@ -1,8 +1,8 @@
-# Read me
+# CYMFoony
 ## What is cymfoony?
-I'll be putting all my thesis work here.
+I'll be putting all resources and files related to my thesis here.
 
-## Basic instructions on how to do Initial Commit and Edit Commits
+## Basic instructions on how to do Initial Commit and Edit Commits for myself
 ```
 rm -r .git # removes previous git files
 git init # initiates new git
