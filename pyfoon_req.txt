@@ -1,0 +1,50 @@
+# Scientific Computing
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+plotly
+jupyterlab
+notebook
+Ipykernel
+
+# Document Processing
+pdfplumber
+PyMuPDF
+pytesseract
+
+# Machine Learning and Deep Learning
+scikit-learn
+tensorflow
+keras
+torch
+
+# Natural Language Processing
+nltk
+spaCy
+gensim
+
+# Computer Vision
+opencv-python
+
+# Networking and Server-related
+flask
+fastapi
+httpx
+requests
+websocket-client
+
+# Data Serialization and Storage
+h5py
+SQLAlchemy
+
+# Miscellaneous
+beautifulsoup4
+pillow
+pyyaml
+python-dotenv
+
+# Niche Libraries (optional, add as needed)
+# Example: Graph Theory
+networkx
