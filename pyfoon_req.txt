@@ -8,6 +8,8 @@ plotly
 jupyterlab
 notebook
 Ipykernel
+sympy
+latex2sympy2
 
 # Document Processing
 pdfplumber
@@ -34,6 +36,7 @@ fastapi
 httpx
 requests
 websocket-client
+flask
 
 # Data Serialization and Storage
 h5py
